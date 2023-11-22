@@ -105,9 +105,6 @@ class ViewController: UIViewController {
 
         countryTextField.delegate = self
         
-//         let tap = UITapGestureRecognizer(target: self, action: #selector(UIInputViewController.dismissKeyboard))
-//        view.addGestureRecognizer(tap)
-        
         showLoading()
         
     }

@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4B69ED4C-4131-4105-A125-C96A498CB9F7"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ADA16AF0-0F9A-44FD-8418-A67A231AC05C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalAssessment/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "192"
+            endingLineNumber = "192"
+            landmarkName = "fetchCountries(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "09BF12FA-B404-4A21-B9A4-48F482BD6349"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalAssessment/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "09BF12FA-B404-4A21-B9A4-48F482BD6349 - 5db583efff3de05d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;TechnicalAssessment.Country&gt;) -&gt; () in TechnicalAssessment.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "TechnicalAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nino/PandoDev/Assessment/TechnicalAssessment/TechnicalAssessment/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "488">
+               </Location>
+               <Location
+                  uuid = "09BF12FA-B404-4A21-B9A4-48F482BD6349 - 5db583efff3de07c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;TechnicalAssessment.Country&gt;) -&gt; () in TechnicalAssessment.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "TechnicalAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nino/PandoDev/Assessment/TechnicalAssessment/TechnicalAssessment/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "708">
+               </Location>
+               <Location
+                  uuid = "09BF12FA-B404-4A21-B9A4-48F482BD6349 - 5db583efff3de197"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;TechnicalAssessment.Country&gt;) -&gt; () in TechnicalAssessment.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "TechnicalAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nino/PandoDev/Assessment/TechnicalAssessment/TechnicalAssessment/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "968">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B4371DC-3D02-41E0-905C-3C8DC81FAAA5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalAssessment/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "278"
+            endingLineNumber = "278"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8B4371DC-3D02-41E0-905C-3C8DC81FAAA5 - 70366f26de58450a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechnicalAssessment.ViewController.textFieldShouldBeginEditing(__C.UITextField) -&gt; Swift.Bool"
+                  moduleName = "TechnicalAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nino/PandoDev/Assessment/TechnicalAssessment/TechnicalAssessment/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "279"
+                  endingLineNumber = "279"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "8B4371DC-3D02-41E0-905C-3C8DC81FAAA5 - 2724257ed6d8850"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechnicalAssessment.ViewController.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "TechnicalAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nino/PandoDev/Assessment/TechnicalAssessment/TechnicalAssessment/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "280"
+                  endingLineNumber = "280"
+                  offsetFromSymbolStart = "188">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FDA8616A-0E30-4EC1-98E2-FCE72FF1C9D7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalAssessment/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "307"
+            endingLineNumber = "307"
+            landmarkName = "textField(_:shouldChangeCharactersIn:replacementString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B6BBCA3C-D544-427A-BEF4-6209619D2BBC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalAssessment/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "315"
+            endingLineNumber = "315"
+            landmarkName = "textField(_:shouldChangeCharactersIn:replacementString:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B6BBCA3C-D544-427A-BEF4-6209619D2BBC - 4f099298175e2339"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechnicalAssessment.ViewController.textField(_: __C.UITextField, shouldChangeCharactersIn: __C._NSRange, replacementString: Swift.String) -&gt; Swift.Bool"
+                  moduleName = "TechnicalAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nino/PandoDev/Assessment/TechnicalAssessment/TechnicalAssessment/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "280"
+                  endingLineNumber = "280"
+                  offsetFromSymbolStart = "996">
+               </Location>
+               <Location
+                  uuid = "B6BBCA3C-D544-427A-BEF4-6209619D2BBC - 4f099298175e231a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechnicalAssessment.ViewController.textField(_: __C.UITextField, shouldChangeCharactersIn: __C._NSRange, replacementString: Swift.String) -&gt; Swift.Bool"
+                  moduleName = "TechnicalAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nino/PandoDev/Assessment/TechnicalAssessment/TechnicalAssessment/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "279"
+                  endingLineNumber = "279"
+                  offsetFromSymbolStart = "996">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DBA73D39-F357-47D3-91B7-BDBC88C9CD49"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalAssessment/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "676179A7-DB05-4902-9981-A81AFB3B847E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalAssessment/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "318"
+            endingLineNumber = "318"
+            landmarkName = "textField(_:shouldChangeCharactersIn:replacementString:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "676179A7-DB05-4902-9981-A81AFB3B847E - 4f099298175e2603"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechnicalAssessment.ViewController.textField(_: __C.UITextField, shouldChangeCharactersIn: __C._NSRange, replacementString: Swift.String) -&gt; Swift.Bool"
+                  moduleName = "TechnicalAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nino/PandoDev/Assessment/TechnicalAssessment/TechnicalAssessment/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "318"
+                  endingLineNumber = "318"
+                  offsetFromSymbolStart = "1448">
+               </Location>
+               <Location
+                  uuid = "676179A7-DB05-4902-9981-A81AFB3B847E - 4f099298175e2603"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechnicalAssessment.ViewController.textField(_: __C.UITextField, shouldChangeCharactersIn: __C._NSRange, replacementString: Swift.String) -&gt; Swift.Bool"
+                  moduleName = "TechnicalAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nino/PandoDev/Assessment/TechnicalAssessment/TechnicalAssessment/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "318"
+                  endingLineNumber = "318"
+                  offsetFromSymbolStart = "1424">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7B2CBDF3-29D7-4FC5-ACB5-78A815740408"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalAssessment/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "144"
+            endingLineNumber = "144"
+            landmarkName = "submitButtonPressed(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

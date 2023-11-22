@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F172C012B0DF2E900A46DCC /* Country.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F172C002B0DF2E900A46DCC /* Country.swift */; };
+		3F172C032B0E133100A46DCC /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F172C022B0E133100A46DCC /* DetailsViewController.swift */; };
 		3FECF1EB2B0DEC2B00BB806F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FECF1EA2B0DEC2B00BB806F /* AppDelegate.swift */; };
 		3FECF1ED2B0DEC2B00BB806F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FECF1EC2B0DEC2B00BB806F /* SceneDelegate.swift */; };
 		3FECF1EF2B0DEC2B00BB806F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FECF1EE2B0DEC2B00BB806F /* ViewController.swift */; };
@@ -18,6 +20,8 @@
 
 /* Begin PBXFileReference section */
 		17E65649FDDF4BE2686952A1 /* Pods_TechnicalAssessment.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TechnicalAssessment.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F172C002B0DF2E900A46DCC /* Country.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Country.swift; sourceTree = "<group>"; };
+		3F172C022B0E133100A46DCC /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 		3FECF1E72B0DEC2B00BB806F /* TechnicalAssessment.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TechnicalAssessment.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FECF1EA2B0DEC2B00BB806F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3FECF1EC2B0DEC2B00BB806F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -56,7 +60,6 @@
 				CD0A53954011F036A5B457D8 /* Pods-TechnicalAssessment.debug.xcconfig */,
 				467D616C3F3C63027991DFEA /* Pods-TechnicalAssessment.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -84,10 +87,12 @@
 				3FECF1EA2B0DEC2B00BB806F /* AppDelegate.swift */,
 				3FECF1EC2B0DEC2B00BB806F /* SceneDelegate.swift */,
 				3FECF1EE2B0DEC2B00BB806F /* ViewController.swift */,
+				3F172C022B0E133100A46DCC /* DetailsViewController.swift */,
 				3FECF1F02B0DEC2B00BB806F /* Main.storyboard */,
 				3FECF1F32B0DEC2C00BB806F /* Assets.xcassets */,
 				3FECF1F52B0DEC2C00BB806F /* LaunchScreen.storyboard */,
 				3FECF1F82B0DEC2C00BB806F /* Info.plist */,
+				3F172C002B0DF2E900A46DCC /* Country.swift */,
 			);
 			path = TechnicalAssessment;
 			sourceTree = "<group>";
@@ -208,8 +213,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				3FECF1EF2B0DEC2B00BB806F /* ViewController.swift in Sources */,
+				3F172C012B0DF2E900A46DCC /* Country.swift in Sources */,
 				3FECF1EB2B0DEC2B00BB806F /* AppDelegate.swift in Sources */,
 				3FECF1ED2B0DEC2B00BB806F /* SceneDelegate.swift in Sources */,
+				3F172C032B0E133100A46DCC /* DetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,7 +279,7 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
-				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu17;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -335,7 +342,7 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu17;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
